@@ -2,3 +2,7 @@ baseurl      = "localhost"
 title        = "My Blog"
 languageCode = "en-us"
 theme        = "hugo-dead-simple"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
