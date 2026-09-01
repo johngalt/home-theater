@@ -1,6 +1,6 @@
 +++
 date = '2026-08-31T20:02:18-05:00'
-draft = true
+draft = false
 title = 'Room Layout'
 +++
 
