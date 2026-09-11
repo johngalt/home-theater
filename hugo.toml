@@ -9,10 +9,10 @@ paginate = 15
     dir = ':cacheDir/images'
 
 [markup.goldmark.renderHooks.image]
-enableDefault = true
+useEmbedded = 'fallback'
 
 [markup.goldmark.renderHooks.link]
-enableDefault = true
+useEmbedded = 'fallback'
 
 [[module.mounts]]
 source = 'assets'
