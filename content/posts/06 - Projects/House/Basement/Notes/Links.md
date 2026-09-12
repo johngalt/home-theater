@@ -2,15 +2,21 @@
 tags: []
 title: Links
 date: 2026-08-29T11:47:06.457Z
-lastmod: 2026-09-11T20:06:40.289Z
+lastmod: 2026-09-12T12:27:42.817Z
 ---
 Width: 13' 4"\
 Depth: 17' 6"\
 Height: 8' 7"
 
-<https://mytheaterbuild.com/>\
-<https://pixelht.com/projector-calculator/>\
-<https://cinemaconfig.com/tools/speaker-layout>
+# Calculators
+
+My theater build - <https://mytheaterbuild.com/>\
+Projector calculator - <https://pixelht.com/projector-calculator/>\
+Projector throw calculator - <https://www.projectorcentral.com/projection-calculator-pro.cfm>\
+Speaker layout - <https://cinemaconfig.com/tools/speaker-layout>\
+SPL calculator - <https://mehlau.net/audio/spl/>
+
+# Research
 
 Projector Brightness - <https://www.avsforum.com/threads/implementation-guide-for-the-cedia-cta-home-theater-video-design-bulletin-cta-cedia-ceb23-b.2944566/>
 
@@ -48,6 +54,10 @@ Bigmouth Soffit build - <https://www.avsforum.com/posts/20844513/>
 * Used 3/4" faced MDF, 10" high by 16" wide
 
 Acoustic Treatments - <https://www.reddit.com/r/hometheater/comments/1wacubn/built_my_own_velvet_wall_panels_for_my_theater/>
+
+List of angled atmos speakers - <https://www.avsforum.com/threads/list-of-angled-in-ceiling-speakers-and-why-on-ceiling-bookshelf-is-better-for-immersive-sound-formats-atmos-auro-dts-x.3238139/>
+
+"Making a home theater sound good" - [https://www.avsforum.com/threads/making-a-home-theater-sound-good-%E2%80%9Cimplementation-guide%E2%80%9D-companion-to-the-cedia-cta-rp22-immersive-audio-design-recommended-practice-in-first-post.3285380/](https://www.avsforum.com/threads/making-a-home-theater-sound-good-%25E2%2580%259Cimplementation-guide%25E2%2580%259D-companion-to-the-cedia-cta-rp22-immersive-audio-design-recommended-practice-in-first-post.3285380/)
 
 # Other Theater Builds
 

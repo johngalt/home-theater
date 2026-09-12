@@ -2,7 +2,7 @@
 tags: []
 title: Projectors
 date: 2026-09-10T18:50:45.734Z
-lastmod: 2026-09-11T19:51:37.861Z
+lastmod: 2026-09-12T12:41:01.489Z
 ---
 # Projectors
 
@@ -15,7 +15,7 @@ JVC Projection Calculator - <https://www.jvc.com/usa/projectors/lens-calculator/
 
 ![Pasted image 20260825122455.png](/ob/99%20-%20Attachments/Pasted%20image%2020260825122455.png)
 
-## Short List
+## Research
 
 * Valerion VisionMaster Max (\$3699) - <https://www.valerion.com/visionmaster#reimaginedFeaturesGrids>
   * <https://www.rtings.com/projector/reviews/valerion/visionmaster-max-laser>
@@ -49,7 +49,9 @@ JVC Projection Calculator - <https://www.jvc.com/usa/projectors/lens-calculator/
 | **Weight**                | 16.5 lbs                      | 17.9 lbs                      | 32.2 lbs                         | 28 lbs                     |
 | **Misc**                  |                               |                               | TRUE native 4k                   | No dynamic tone mapping    |
 
-The JVC seems to be the most all-around popular. The Valerion seems really nice, but not as mature. The JVC, despite its lower lumens, is touted as having better blacks and color contrast. It also is the only one that does native 4k rather than using pixel shifting like the others. Also the dynamic HDR tone mapping is highly touted.
+## Plan
+
+The JVC seems to be the most all-around popular. The Valerion seems really nice, but not as mature. The JVC, despite its lower lumens, is touted as having better blacks and color contrast. It also is the only one that does native 4k rather than using pixel shifting like the others. Also the dynamic HDR tone mapping is highly touted. Likely going to go with the **JVC DLA-NZ500**.
 
 # Screens
 
@@ -59,29 +61,12 @@ Planning an acoustically transparent screen to place LCR speakers behind. Can go
 
 AT Material reviewed/ranked - <https://www.avsforum.com/threads/updated-10-21-21-31-acoustically-transparent-screen-materials-reviewed-and-measured.3206678/>
 
-## Short List
-
-SeymourAV
-
-* Screens
-  * CenterStage XD - texture will be slightly visible at a 10' MLP
-    * Gain - 0.83
-  * CenterStage UF - texture smoother than XD at closer MLPs
-    * Gain - 0.65 (will be much darker)
-* Frames
-  * Premier - big, heavy -- may be a little much (\$2,248 for 130" diagonal)
-  * Precision - smaller edge, lightier, cheaper (\$1,535 for 130" diagonal)
-
 ## Plan
 
-Likely going to go with **SeymourAV - Precision H115 16:9 - CenterStage XD** - \$1,535
+Likely going to go with **SeymourAV - Precision H115 16:9 - CenterStage XD** - \$1,535. There is a CenterStage UF screen option that has a smoother texture but the gain is much lower (0.65 vs 0.83) which would result in a darker picture.
 
 * Black backing layer - an additional ~\$238 - not sure if I need this or not
 * Dimensions:
-  * A (image width) - 115"
-  * B (image height) - 64.6"
-  * C (diagonal) - 131.9"
-  * D (total width) - 120.3"
-  * E (total height) - 69.9"
-  * Depth - 1.3"\
+  * Image (W x H): 115" (A) x 64.6" (B), Diagonal 131.9" (C)
+  * Frame (W x H): 120.3" (D) x 69.9" (E), Depth 1.3"\
     ![Pasted image 20260910172718.png](/ob/99%20-%20Attachments/Pasted%20image%2020260910172718.png)
