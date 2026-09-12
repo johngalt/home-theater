@@ -2,7 +2,7 @@
 tags: []
 title: Speakers
 date: 2026-09-10T22:30:03.288Z
-lastmod: 2026-09-12T19:33:55.260Z
+lastmod: 2026-09-12T20:30:31.645Z
 ---
 # LCR
 
@@ -37,7 +37,7 @@ Really nice speakers. Maybe a bit over budget. Easily hits reference level sound
 
 For the **Sierra-LX** and -**2EX V2**, would need a more powerful external amp given the lower sensitivity to reach closer to reference levels at a 10' MLP.  Can use Q port plugs on them too if I need to place the back close to the wall. The main difference between the **2EX V2** and the **LX** is the RAAL ribbon tweeter on the **2EX V2**, which seems to be more beneficial for music listening.
 
-The **CMT-340SE2** is pretty highly praised for the cost. Doesn't have the bass extension like the LX and 2EX V2, but for my primary movies/TV use and pairing with subwoofers, may not need that. Also, the high sensitivity means I don't necessarily need to buy an external amp to power them (they only need 100W to hit reference peaks).
+The **CMT-340SE2** is pretty highly praised for the cost. Doesn't have the bass extension like the LX and 2EX V2, but for my primary movies/TV use and pairing with subwoofers, may not need that. Also the high sensitivity means I could get a cheaper 3 channel amp to power them (like the Emotiva BasX at $799 versus the Hypex NCx500 at $1699).
 
 For all the ascend options, I'd go with a matching center option. They are virtually the same speakers and can be rotated vertically to match.
 

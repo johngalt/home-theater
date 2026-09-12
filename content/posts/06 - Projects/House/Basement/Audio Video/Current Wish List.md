@@ -2,7 +2,7 @@
 tags: []
 title: Current Wish List
 date: 2026-09-12T19:10:32.222Z
-lastmod: 2026-09-12T20:15:38.921Z
+lastmod: 2026-09-12T20:29:29.113Z
 ---
 |                  | **Component**                                                                                                                                | **Price**    |
 | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
@@ -34,7 +34,7 @@ Going with really expensive atmos speakers is less important I think, so I am lo
 
 ## Receiver/Amp
 
-For the Ascend CMT-340SE2, I won't necessarily need an external amp, since even the Denon X3900H can put out the 100W they need to hit reference peaks. BUT since I am aiming for 11 powered channels, I would need one (unless I went with an 11 channel amp). I think I will go with the **Buckeye NCx500 3-channel** amplifier (\$1650). Its a bit overkill for the Ascend CMTs, but opens up my options down the road if I go with less sensitive or more power-demanding speakers.
+For the Ascend CMT-340SE2, I won't necessarily need an external amp, since even the Denon X3900H can put out the 100W they need to hit reference peaks. BUT since I am aiming for 11 powered channels, I would need one (unless I went with an 11 channel amp). I think I will go with the **Buckeye NCx500 3-channel** amplifier ($1650). Its a bit overkill for the Ascend CMTs, but opens up my options down the road if I go with less sensitive or more power-demanding speakers. Or I could save a grand and just go with the **Emotiva BasX A3+ 3-channel** ($799) to power the CMTs.
 
 With the receiver, I am eyeing the **Denon X3900H**. Handles all the formats I care about, supports DIRAC ART, and has the necessary pre-outs for an amp. The Marantz looks nice, but this receiver will likely be hidden.
 
