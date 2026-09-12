@@ -2,24 +2,24 @@
 tags: []
 title: Speakers
 date: 2026-09-10T22:30:03.288Z
-lastmod: 2026-09-12T12:25:13.462Z
+lastmod: 2026-09-12T19:33:55.260Z
 ---
 # LCR
 
-| Speaker                                                                                                                             | Price       | HxWxD                 | Port   | Frequency Response | Bass Response | Sensitivity | Impedence | Max Amp Power     |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------- | ------ | ------------------ | ------------- | ----------- | --------- | ----------------- |
-| **KEF**                                                                                                                             |             |                       |        |                    |               |             |           |                   |
-| [Q3 Meta](https://us.kef.com/products/q3-meta?variant=48814304264441)                                                               | \$899/pair  | 14.1" x 8.3" x 12"    | rear   | 49Hz - 20kHz       | 39 Hz         | 87 dB       | 4 Ω       | 150W              |
-| [R3 Meta](https://us.kef.com/products/r3-meta?variant=48814290108665)                                                               | \$2499/pair | 16.6" x 7.9" x 13.2"  | rear   | 58Hz - 28kHz       | 30 Hz         | 87 dB       | 4 Ω       | 180W              |
-| **Arendal**                                                                                                                         |             |                       |        |                    |               |             |           |                   |
-| [1723 Monitor S THX](https://arendalsound.com/product/1723-monitor-s-thx/tech/)                                                     | \$2200/pair | 22.4" x 9.6" x 12.6"  | sealed | 50Hz - 20kHz       | 22 Hz         | 88.7 dB     | 4 Ω       | 300W              |
-| **Ascend**                                                                                                                          |             |                       |        |                    |               |             |           |                   |
-| [CMT-340SE2](https://www.ascendacoustics.com/products/cmt-340se2-mini-tower-pair?variant=40521999646774)                            | \$798/pair  | 21" x 7.5" x 10.5"    | sealed | 71Hz - 22kHz       | 58 Hz         | 92 dB       | 8 Ω       | 240W (up to 400W) |
-| [SIERRA-LX](https://www.ascendacoustics.com/collections/all-speaker-pairs/products/sierra-lx-pair)                                  | \$1598/pair | 14.25" x 7.5" x 10.5" | rear   | 43Hz - 23kHz       | 36 Hz         | 83 dB       | 8 Ω       | 350W (up to 500W) |
-| [SIERRA-2EX V2](https://www.ascendacoustics.com/collections/sierra-series-pairs/products/sierra-2ex-v2-pair?variant=40390917849142) | \$1748/pair | 14.25" x 7.5" x 10.5" | rear   | 51Hz - 27kHz       | 42 Hz         | 85 dB       | 8 Ω       | 150W (up to 300W) |
-| **PowerSound**                                                                                                                      |             |                       |        |                    |               |             |           |                   |
-| [MTM210K-M](https://www.powersoundaudio.com/products/mtm210k-m)                                                                     | \$1100/each | 28" x 11"  x 16"      | sealed | 80Hz - 18kHz       |               | 98 dB       | 4 Ω       | 90W (up to 250W)  |
-| [MT110K-M](https://www.powersoundaudio.com/collections/speakers/products/mt110k-m)                                                  | \$799/each  | 17.5" x 11" x 14"     | sealed | 80Hz - 18kHz       |               | 94 dB       | 4 Ω       | 225W              |
+| Speaker                                                                                                                             | Price       | HxWxD                 | Port   | Frequency Response | Bass Response | Sensitivity | Impedence | Max Amp Power     | Max SLP at MLP (10')   |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------- | ------ | ------------------ | ------------- | ----------- | --------- | ----------------- | ---------------------- |
+| **KEF**                                                                                                                             |             |                       |        |                    |               |             |           |                   |                        |
+| [Q3 Meta](https://us.kef.com/products/q3-meta?variant=48814304264441)                                                               | \$899/pair  | 14.1" x 8.3" x 12"    | rear   | 49Hz - 20kHz       | 39 Hz         | 87 dB       | 4 Ω       | 150W              | 102.2 dB               |
+| [R3 Meta](https://us.kef.com/products/r3-meta?variant=48814290108665)                                                               | \$2499/pair | 16.6" x 7.9" x 13.2"  | rear   | 58Hz - 28kHz       | 30 Hz         | 87 dB       | 4 Ω       | 180W              | 103 dB                 |
+| **Arendal**                                                                                                                         |             |                       |        |                    |               |             |           |                   |                        |
+| [1723 Monitor S THX](https://arendalsound.com/product/1723-monitor-s-thx/tech/)                                                     | \$2200/pair | 22.4" x 9.6" x 12.6"  | sealed | 50Hz - 20kHz       | 22 Hz         | 88.7 dB     | 4 Ω       | 300W              | 106.9 dB               |
+| **Ascend**                                                                                                                          |             |                       |        |                    |               |             |           |                   |                        |
+| [CMT-340SE2](https://www.ascendacoustics.com/products/cmt-340se2-mini-tower-pair?variant=40521999646774)                            | \$798/pair  | 21" x 7.5" x 10.5"    | sealed | 71Hz - 22kHz       | 58 Hz         | 92 dB       | 8 Ω       | 240W (up to 400W) | 109.3 dB (up to 111.5) |
+| [SIERRA-LX](https://www.ascendacoustics.com/collections/all-speaker-pairs/products/sierra-lx-pair)                                  | \$1598/pair | 14.25" x 7.5" x 10.5" | rear   | 43Hz - 23kHz       | 36 Hz         | 83 dB       | 8 Ω       | 350W (up to 500W) | 101.9 dB (up to 103.4) |
+| [SIERRA-2EX V2](https://www.ascendacoustics.com/collections/sierra-series-pairs/products/sierra-2ex-v2-pair?variant=40390917849142) | \$1748/pair | 14.25" x 7.5" x 10.5" | rear   | 51Hz - 27kHz       | 42 Hz         | 85 dB       | 8 Ω       | 150W (up to 300W) | 100.2 dB (up to 103.2) |
+| **PowerSound**                                                                                                                      |             |                       |        |                    |               |             |           |                   |                        |
+| [MTM210K-M](https://www.powersoundaudio.com/products/mtm210k-m)                                                                     | \$1100/each | 28" x 11"  x 16"      | sealed | 80Hz - 18kHz       |               | 98 dB       | 4 Ω       | 90W (up to 250W)  | 115 dB                 |
+| [MT110K-M](https://www.powersoundaudio.com/collections/speakers/products/mt110k-m)                                                  | \$799/each  | 17.5" x 11" x 14"     | sealed | 80Hz - 18kHz       |               | 94 dB       | 4 Ω       | 225W              | 111 dB                 |
 
 ## Notes
 
@@ -27,7 +27,7 @@ My hope is to get identical 3 identical speakers to act as LCR rather than L/R a
 
 ### KEF
 
-Good all around speakers. The Uni-Q helps with a wider soundstage from what I can gather. **R3 Meta** would be the better pick, but at that price I'd go with Arendal. A big issue with the KEF speakers is I would need a split pair to be my center channel and sell the other. I wouldn't go with the KEF center options ([Why no center channel?](https://www.seymourav.com/centerbestpractice.php)), since I'm going with all 3 behind an acoustically transparent screen.
+Good all around speakers. Neither the Q3 or R3 can hit reference level peaks at my MLP at 10' which is problematic.  The Uni-Q helps with a wider soundstage from what I can gather. **R3 Meta** would be the better pick, but at that price I'd go with Arendal. A big issue with the KEF speakers is I would need a split pair to be my center channel and sell the other. I wouldn't go with the KEF center options ([Why no center channel?](https://www.seymourav.com/centerbestpractice.php)), since I'm going with all 3 behind an acoustically transparent screen.
 
 ### Arendal
 
@@ -37,7 +37,7 @@ Really nice speakers. Maybe a bit over budget. Easily hits reference level sound
 
 For the **Sierra-LX** and -**2EX V2**, would need a more powerful external amp given the lower sensitivity to reach closer to reference levels at a 10' MLP.  Can use Q port plugs on them too if I need to place the back close to the wall. The main difference between the **2EX V2** and the **LX** is the RAAL ribbon tweeter on the **2EX V2**, which seems to be more beneficial for music listening.
 
-The **CMT-340SE2** is pretty highly praised for the cost. Doesn't have the bass extension like the LX and 2EX V2, but for my primary movies/TV use and pairing with subwoofers, may not need that.
+The **CMT-340SE2** is pretty highly praised for the cost. Doesn't have the bass extension like the LX and 2EX V2, but for my primary movies/TV use and pairing with subwoofers, may not need that. Also, the high sensitivity means I don't necessarily need to buy an external amp to power them (they only need 100W to hit reference peaks).
 
 For all the ascend options, I'd go with a matching center option. They are virtually the same speakers and can be rotated vertically to match.
 
@@ -78,7 +78,7 @@ Given my limited width in the room, putting bookshelfs on stands would be tough.
 
 The **KEF Q4 Meta** has the slimmest profile out of my options. The **1723 Surround S** is the nicest, but kind of out of budget and would rather spend more on fronts.
 
-Out of the Ascend options, I'm eyeing the **HTM-200SE2** since its sealed and can mount easily on the wall. The benefit of the **LUNA V2** is the option to get a raal ribbon tweeter, which would pair with the Sierra LCRs if I also did a ribbon tweeter on those, which I probably wont. So I don't think the extra cost is worth it. Would rather save on surrounds to get better fronts.
+Out of the Ascend options, I'm eyeing the **HTM-200SE2** since its sealed and can mount easily on the wall. The benefit of the **LUNA V2** is the option to get a raal ribbon tweeter, which would pair with the Sierra LCRs if I also did a ribbon tweeter on those, which I probably wont. So I don't think the extra cost is worth it. Would rather save on surrounds to get better fronts/subs.
 
 # Atmos/Heights
 
