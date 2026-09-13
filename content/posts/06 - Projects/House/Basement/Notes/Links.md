@@ -2,12 +2,8 @@
 tags: []
 title: Links
 date: 2026-08-29T11:47:06.457Z
-lastmod: 2026-09-13T18:49:34.540Z
+lastmod: 2026-09-13T19:57:22.504Z
 ---
-Width: 13' 4" (160 inches)\
-Depth: 17' 6" (210 inches)\
-Height: 8' 7" (103 inches)
-
 ## Calculators
 
 My theater build - <https://mytheaterbuild.com/>\

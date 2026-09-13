@@ -2,7 +2,7 @@
 tags: []
 title: Projectors
 date: 2026-09-10T18:50:45.734Z
-lastmod: 2026-09-13T18:49:11.044Z
+lastmod: 2026-09-13T19:14:15.075Z
 ---
 ## Projectors
 
@@ -65,7 +65,7 @@ AT Material reviewed/ranked - <https://www.avsforum.com/threads/updated-10-21-21
 
 Likely going to go with **SeymourAV - Precision H115 16:9 - CenterStage XD** - \$1,535. There is a CenterStage UF screen option that has a smoother texture but the gain is much lower (0.65 vs 0.83) which would result in a darker picture.
 
-* Black backing layer - an additional ~\$238 - not sure if I need this or not
+* Black backing layer is an additional \$300-400, but I don't think I'll need it with blacking the walls behind the screen
 * Dimensions:
   * Image (W x H): 115" (A) x 64.6" (B), Diagonal 131.9" (C)
   * Frame (W x H): 120.3" (D) x 69.9" (E), Depth 1.3"\
