@@ -2,9 +2,9 @@
 tags: []
 title: Receivers
 date: 2026-09-11T19:16:05.085Z
-lastmod: 2026-09-12T13:02:44.875Z
+lastmod: 2026-09-13T18:48:23.638Z
 ---
-# Receivers
+## Receivers
 
 | Receiver     | Price  | Channels | Power (8Ω) | Power (6Ω) | LFE Outs |
 | ------------ | ------ | -------- | ---------- | ---------- | -------- |
@@ -19,7 +19,7 @@ lastmod: 2026-09-12T13:02:44.875Z
 
 For a planned 7.2.4, that would be **11 channels**, so I would need a 11 channel receiver OR use a separate amp. All of these otherwise can power 4 subs. Leaning towards the **Denon X3900H** and pair with an external amplifer for the LCR speakers.
 
-# Amplifiers
+## Amplifiers
 
 | Amplifier                                                                                | Price  | Channels | Power (8Ω) | Power (4Ω) |
 | ---------------------------------------------------------------------------------------- | ------ | -------- | ---------- | ---------- |

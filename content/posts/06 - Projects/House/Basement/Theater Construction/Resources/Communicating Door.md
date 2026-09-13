@@ -2,7 +2,7 @@
 tags: []
 title: Communicating Door
 date: 2026-09-08T18:25:21.703Z
-lastmod: 2026-09-11T20:07:28.479Z
+lastmod: 2026-09-13T18:49:42.967Z
 ---
 Notes from [this Youtube video](https://www.youtube.com/watch?v=8Yep447wdzk\&t=110s):
 
@@ -17,6 +17,6 @@ Then place 1.6-3 PCF Mineral Wool along the gap:\
 
 Then cover that the mineral wool with acoustic fabric.
 
-# Todo
+## Todo
 
 * \[ ] Will need contractor help/advice on how to approach this

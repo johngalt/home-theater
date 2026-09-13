@@ -2,13 +2,13 @@
 tags: []
 title: Links
 date: 2026-08-29T11:47:06.457Z
-lastmod: 2026-09-12T12:27:42.817Z
+lastmod: 2026-09-13T18:49:34.540Z
 ---
-Width: 13' 4"\
-Depth: 17' 6"\
-Height: 8' 7"
+Width: 13' 4" (160 inches)\
+Depth: 17' 6" (210 inches)\
+Height: 8' 7" (103 inches)
 
-# Calculators
+## Calculators
 
 My theater build - <https://mytheaterbuild.com/>\
 Projector calculator - <https://pixelht.com/projector-calculator/>\
@@ -16,7 +16,7 @@ Projector throw calculator - <https://www.projectorcentral.com/projection-calcul
 Speaker layout - <https://cinemaconfig.com/tools/speaker-layout>\
 SPL calculator - <https://mehlau.net/audio/spl/>
 
-# Research
+## Research
 
 Projector Brightness - <https://www.avsforum.com/threads/implementation-guide-for-the-cedia-cta-home-theater-video-design-bulletin-cta-cedia-ceb23-b.2944566/>
 
@@ -59,7 +59,7 @@ List of angled atmos speakers - <https://www.avsforum.com/threads/list-of-angled
 
 "Making a home theater sound good" - [https://www.avsforum.com/threads/making-a-home-theater-sound-good-%E2%80%9Cimplementation-guide%E2%80%9D-companion-to-the-cedia-cta-rp22-immersive-audio-design-recommended-practice-in-first-post.3285380/](https://www.avsforum.com/threads/making-a-home-theater-sound-good-%25E2%2580%259Cimplementation-guide%25E2%2580%259D-companion-to-the-cedia-cta-rp22-immersive-audio-design-recommended-practice-in-first-post.3285380/)
 
-# Other Theater Builds
+## Other Theater Builds
 
 <https://www.avsforum.com/threads/bigmouthindc-summer-fun-just-10-minutes-down-the-parkway.1421716/?nested_view=1>
 

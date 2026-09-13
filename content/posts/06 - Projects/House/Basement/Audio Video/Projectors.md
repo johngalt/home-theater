@@ -2,20 +2,20 @@
 tags: []
 title: Projectors
 date: 2026-09-10T18:50:45.734Z
-lastmod: 2026-09-12T12:41:01.489Z
+lastmod: 2026-09-13T18:49:11.044Z
 ---
-# Projectors
+## Projectors
 
-## Tools
+### Tools
 
 Projection Throw Calculator - <https://www.projectorcentral.com/projection-calculator-pro.cfm>\
 JVC Projection Calculator - <https://www.jvc.com/usa/projectors/lens-calculator/>
 
-## Notes
+### Notes
 
 ![Pasted image 20260825122455.png](/ob/99%20-%20Attachments/Pasted%20image%2020260825122455.png)
 
-## Research
+### Research
 
 * Valerion VisionMaster Max (\$3699) - <https://www.valerion.com/visionmaster#reimaginedFeaturesGrids>
   * <https://www.rtings.com/projector/reviews/valerion/visionmaster-max-laser>
@@ -49,19 +49,19 @@ JVC Projection Calculator - <https://www.jvc.com/usa/projectors/lens-calculator/
 | **Weight**                | 16.5 lbs                      | 17.9 lbs                      | 32.2 lbs                         | 28 lbs                     |
 | **Misc**                  |                               |                               | TRUE native 4k                   | No dynamic tone mapping    |
 
-## Plan
+### Plan
 
 The JVC seems to be the most all-around popular. The Valerion seems really nice, but not as mature. The JVC, despite its lower lumens, is touted as having better blacks and color contrast. It also is the only one that does native 4k rather than using pixel shifting like the others. Also the dynamic HDR tone mapping is highly touted. Likely going to go with the **JVC DLA-NZ500**.
 
-# Screens
+## Screens
 
 Planning an acoustically transparent screen to place LCR speakers behind. Can go with woven or perforated. 10 feet viewing distance may be too close for a perforated screen. Also, perforated screens require more buffer room between speakers and the screen.
 
-## Research
+### Research
 
 AT Material reviewed/ranked - <https://www.avsforum.com/threads/updated-10-21-21-31-acoustically-transparent-screen-materials-reviewed-and-measured.3206678/>
 
-## Plan
+### Plan
 
 Likely going to go with **SeymourAV - Precision H115 16:9 - CenterStage XD** - \$1,535. There is a CenterStage UF screen option that has a smoother texture but the gain is much lower (0.65 vs 0.83) which would result in a darker picture.
 

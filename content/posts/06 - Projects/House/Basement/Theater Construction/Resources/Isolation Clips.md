@@ -2,14 +2,14 @@
 tags: []
 title: Isolation Clips
 date: 2026-09-06T19:33:35.968Z
-lastmod: 2026-09-11T20:08:37.875Z
+lastmod: 2026-09-13T18:49:45.946Z
 ---
-# Isolation Clips
+## Isolation Clips
 
 I'll use IB-1 isolation clips as seen [here](https://shop.soundproofingcompany.com/products/ib-1-soundproofing-clip?variant=33155367960711).\
 ![Pasted image 20260902162555.png](/ob/99%20-%20Attachments/Pasted%20image%2020260902162555.png)
 
-# Hat Channels
+## Hat Channels
 
 Required hat channel specifications for the clips. Can be purchased at most building supply stores.
 

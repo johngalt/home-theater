@@ -3,6 +3,13 @@ title        = "My Blog"
 languageCode = "en-us"
 theme        = "hugo-dead-simple"
 paginate = 15
+enableGitInfo = true
+
+[[menu.main]]
+name = "<u>H</u>ome"
+url = "/"
+weight = 1
+
 
 [caches]
   [caches.images]

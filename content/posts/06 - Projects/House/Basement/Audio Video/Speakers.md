@@ -2,9 +2,9 @@
 tags: []
 title: Speakers
 date: 2026-09-10T22:30:03.288Z
-lastmod: 2026-09-12T20:36:05.192Z
+lastmod: 2026-09-13T18:48:54.574Z
 ---
-# LCR
+## LCR
 
 | Speaker                                                                                                                             | Price       | HxWxD                 | Port   | Frequency Response | Bass Response | Sensitivity | Impedence | Max Amp Power     | Max SLP at MLP (10')   |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ----------- | --------------------- | ------ | ------------------ | ------------- | ----------- | --------- | ----------------- | ---------------------- |
@@ -21,19 +21,19 @@ lastmod: 2026-09-12T20:36:05.192Z
 | [MTM210K-M](https://www.powersoundaudio.com/products/mtm210k-m)                                                                     | \$1100/each | 28" x 11"  x 16"      | sealed | 80Hz - 18kHz       |               | 98 dB       | 4 Ω       | 90W (up to 250W)  | 115 dB                 |
 | [MT110K-M](https://www.powersoundaudio.com/collections/speakers/products/mt110k-m)                                                  | \$799/each  | 17.5" x 11" x 14"     | sealed | 80Hz - 18kHz       |               | 94 dB       | 4 Ω       | 225W              | 111 dB                 |
 
-## Notes
+### Notes
 
 My hope is to get identical 3 identical speakers to act as LCR rather than L/R and a separate center channel. I'll have about 20" of space behind the AT screen to work with. Ideally I'm looking at bookshelf speakers/monitors.
 
-### KEF
+#### KEF
 
 Good all around speakers. Neither the Q3 or R3 can hit reference level peaks at my MLP at 10' which is problematic.  The Uni-Q helps with a wider soundstage from what I can gather. **R3 Meta** would be the better pick, but at that price I'd go with Arendal. A big issue with the KEF speakers is I would need a split pair to be my center channel and sell the other. I wouldn't go with the KEF center options ([Why no center channel?](https://www.seymourav.com/centerbestpractice.php)), since I'm going with all 3 behind an acoustically transparent screen.
 
-### Arendal
+#### Arendal
 
 Really nice speakers. Maybe a bit over budget. Easily hits reference level sound at 10' MLP. Could get a separate center speaker, which is the same cabinet as the L/Rs. It [can be oriented vertically](https://arendalsound.com/article/can-you-use-our-center-chanel-speakers-vertically/) as well to match the L/R.
 
-### Ascend
+#### Ascend
 
 For the **Sierra-LX** and -**2EX V2**, would need a more powerful external amp given the lower sensitivity to reach closer to reference levels at a 10' MLP.  Can use Q port plugs on them too if I need to place the back close to the wall. The main difference between the **2EX V2** and the **LX** is the RAAL ribbon tweeter on the **2EX V2**, which seems to be more beneficial for music listening.
 
@@ -41,11 +41,11 @@ The **CMT-340SE2** is pretty highly praised for the cost. Doesn't have the bass 
 
 For all the ascend options, I'd go with a matching center option. They are virtually the same speakers and can be rotated vertically to match.
 
-### PowerSoundAudio
+#### PowerSoundAudio
 
 Pretty damn impressive loudspeakers. Doesn't have the bass range, but again, pairing with a subwoofer. The only issue overall is not many options that would fit my room when looking at surrounds if my goal is to timbre match across the bed layer.
 
-# Subs
+## Subs
 
 | Speaker                                                               | Price  | HxWxD                  | Port  | Frequency Response |
 | --------------------------------------------------------------------- | ------ | ---------------------- | ----- | ------------------ |
@@ -56,13 +56,13 @@ Pretty damn impressive loudspeakers. Doesn't have the bass range, but again, pai
 | [10S MKII](https://rslspeakers.com/products/rsl-speedwoofer-10s-mkii) | \$499  | 15.5" x 15" x 15.75"   | rear  | 18Hz - 200Hz       |
 | [12S](https://rslspeakers.com/products/rsl-speedwoofer-12s)           | \$799  | 22.25" x 18.9" x 22.1" | rear  | 16Hz - 200Hz       |
 
-## Notes
+### Notes
 
 Planning on dual subs to start. Either both located in the front behind the screen (L-sub-C-sub-R) or have 1 in front and 1 in back behind MLP.  If I go behind the screen, I'll be limited by the planned space behind the screen which as of now is about 20". That kind of gets me stuck with the **SVS PB-1000 Pro** and the **RSL Speedwoofer 11S MKII**. And out of those two, the Speedwoofer is better from the reviews/comparisons I've seen. If I can get away with a little more space, I think the **RSL Speedwoofer 12S** would be a good option for the price when compared to the **SVS PB-2000**.  For the RSLs, the rear-port is something that limits me as well if I cram them behind the screen wall.
 
 Thinking more about this, it may be a bad idea to place the rear-ported RSL woofers behind the screen. I may be better off placing them inside the room in corners (one in front of screen wall, one on back wall). Will have to research this more.
 
-# Surrounds
+## Surrounds
 
 | Speaker                                                                                                                                 | Price        | HxWxD                  | Port   | Frequency Response | Bass Response | Sensitivity | Impedence | Max Amp Power          |
 | --------------------------------------------------------------------------------------------------------------------------------------- | ------------ | ---------------------- | ------ | ------------------ | ------------- | ----------- | --------- | ---------------------- |
@@ -74,7 +74,7 @@ Thinking more about this, it may be a bad idea to place the rear-ported RSL woof
 | [HTM-200SE2](https://www.ascendacoustics.com/collections/signature-series/products/htm-200se2-mini-monitor-pair?variant=43227522138166) | \$368/pair   | 11" x 6.5" x 6.375"    | sealed | 77Hz - 22kHz       | 64 Hz         | 86 dB       | 8 Ω       | 14 - 200W (up to 350W) |
 | [LUNA V2](https://www.ascendacoustics.com/collections/sierra-series-pairs/products/luna-v2-mini-monitor-pair?variant=43269859606582)    | \$898/pair   | 10.625" x 5.75" x 6.0" | front  | 75Hz - 27kHz       | 58Hz          | 82 dB       | 8 Ω       | 34 - 100W (up to 150W) |
 
-## Notes
+### Notes
 
 Given my limited width in the room, putting bookshelfs on stands would be tough. Ideally looking at either slim monitors that I can mount, or specific on-wall speakers. If possible, would aim to timbre match with LCRs.
 
@@ -82,7 +82,7 @@ The **KEF Q4 Meta** has the slimmest profile out of my options. The **1723 Surro
 
 Out of the Ascend options, I'm eyeing the **HTM-200SE2** since its sealed and can mount easily on the wall. The benefit of the **LUNA V2** is the option to get a raal ribbon tweeter, which would pair with the Sierra LCRs if I also did a ribbon tweeter on those, which I probably wont. So I don't think the extra cost is worth it. Would rather save on surrounds to get better fronts/subs.
 
-# Atmos/Heights
+## Atmos/Heights
 
 | Speaker                                                                           | Price      | Size (external) | Angle | Frequency Response | Sensitivity | Impedence | Max Amp Power |
 | --------------------------------------------------------------------------------- | ---------- | --------------- | ----- | ------------------ | ----------- | --------- | ------------- |
@@ -98,7 +98,7 @@ Out of the Ascend options, I'm eyeing the **HTM-200SE2** since its sealed and ca
 | [Stage 280CSA](https://www.jbl.com/Stage-280CSA.html)                             | \$309/each | 10.2" (11.4")   | 20°   | 42Hz - 25kHz       | 90 dB       | 8 Ω       | 20 - 120W     |
 | [Stage 260CSA](https://www.jbl.com/Stage-260CSA.html)                             | \$209/each | 8.6" (9.8")     | 20°   | 50Hz - 25kHz       | 87 dB       | 8 Ω       | 20 - 100W     |
 
-## Notes
+### Notes
 
 Planning 4 total atmos speakers (front/rear). Matching with LCRs/surrounds isn't as important. Straight down-firing in-ceiling speakers aren't great (see [here](https://www.avsforum.com/threads/list-of-angled-in-ceiling-speakers-and-why-on-ceiling-bookshelf-is-better-for-immersive-sound-formats-atmos-auro-dts-x.3238139/)). I guess I could consider wall-mounted height speakers (like the SVS Prime Elevation) but unsure about that.
 
