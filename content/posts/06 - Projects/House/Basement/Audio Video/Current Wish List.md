@@ -2,25 +2,28 @@
 tags: []
 title: Current Wish List
 date: 2026-09-12T19:10:32.222Z
-lastmod: 2026-09-13T18:51:29.786Z
+lastmod: 2026-09-13T19:01:32.690Z
 ---
 ## Shopping List
 
-|                                      | **Component**                                                                                                                                |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Speakers**                         |                                                                                                                                              |
-| L/R                                  | [Ascend CMT-340SE2 MINI TOWER PAIR](https://www.ascendacoustics.com/products/cmt-340se2-mini-tower-pair)                                     |
-| Center                               | [Ascend CMT-340SE2 CENTER](https://www.ascendacoustics.com/collections/signature-series-centers/products/cmt-340se2-center), vertical        |
-| Subwoofers                           | [RSL Speedwoofer 12S](https://rslspeakers.com/products/rsl-speedwoofer-12s) x2                                                               |
-| Surrounds                            | [Ascend HTM-200SE2 MINI-MONITOR PAIR](https://www.ascendacoustics.com/collections/signature-series/products/htm-200se2-mini-monitor-pair) x2 |
-| Atmos                                | [RSL C34E MKII](https://rslspeakers.com/products/c34emkii-edgless-in-ceiling-speaker) x4                                                     |
-| **Receiver/Amp**                     |                                                                                                                                              |
-| Receiver                             | [Denon AVR-X3900H](https://www.denon.com/en-us/product/x-series-av-receivers/avr-x3900h/301129.html)                                         |
-| Amplifier                            | [Emotiva BasX A3+ 3-channel](https://emotiva.com/products/basx-a3-plus-three-channel-power-amplifier)                                        |
-| **Projector**                        |                                                                                                                                              |
-| Projector                            | [JVC DLA-NZ500](https://www.jvc.com/usa/projectors/procision/dla-nz500/)                                                                     |
-| Screen                               | [SeymourAV CenterStage XD 130"](https://www.seymourav.com/)                                                                                  |
-| !\[\[Pasted image 20260913132615.png | 941]]                                                                                                                                        |
+![Pasted image 20260913132615.png](/ob/99%20-%20Attachments/Pasted%20image%2020260913132615.png)
+
+### Links
+
+|                  | **Component**                                                                                                                                |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Speakers**     |                                                                                                                                              |
+| L/R              | [Ascend CMT-340SE2 MINI TOWER PAIR](https://www.ascendacoustics.com/products/cmt-340se2-mini-tower-pair)                                     |
+| Center           | [Ascend CMT-340SE2 CENTER](https://www.ascendacoustics.com/collections/signature-series-centers/products/cmt-340se2-center), vertical        |
+| Subwoofers       | [RSL Speedwoofer 12S](https://rslspeakers.com/products/rsl-speedwoofer-12s) x2                                                               |
+| Surrounds        | [Ascend HTM-200SE2 MINI-MONITOR PAIR](https://www.ascendacoustics.com/collections/signature-series/products/htm-200se2-mini-monitor-pair) x2 |
+| Atmos            | [RSL C34E MKII](https://rslspeakers.com/products/c34emkii-edgless-in-ceiling-speaker) x4                                                     |
+| **Receiver/Amp** |                                                                                                                                              |
+| Receiver         | [Denon AVR-X3900H](https://www.denon.com/en-us/product/x-series-av-receivers/avr-x3900h/301129.html)                                         |
+| Amplifier        | [Emotiva BasX A3+ 3-channel](https://emotiva.com/products/basx-a3-plus-three-channel-power-amplifier)                                        |
+| **Projector**    |                                                                                                                                              |
+| Projector        | [JVC DLA-NZ500](https://www.jvc.com/usa/projectors/procision/dla-nz500/)                                                                     |
+| Screen           | [SeymourAV CenterStage XD 130"](https://www.seymourav.com/)                                                                                  |
 
 ## Audio
 
