@@ -2,7 +2,7 @@
 tags: []
 title: Electrical
 date: 2026-09-03T01:46:01.244Z
-lastmod: 2026-09-14T15:16:23.674Z
+lastmod: 2026-09-14T19:18:47.763Z
 ---
 ## High Voltage
 
@@ -18,6 +18,19 @@ lastmod: 2026-09-14T15:16:23.674Z
 
 ### Speakers
 
+![Pasted image 20260914140746.png](/ob/99%20-%20Attachments/Pasted%20image%2020260914140746.png)
+
+1. **Front wall** - 3x for front L/C/R connection and coax (two for future proof) for subwoofer
+2. **Side walls** - for L/R surround (could run coax here too for subs, may be easiest)
+3. **Back wall** - for L/R rears
+4. (***Front sides*** for future proofing) - run conduit/speaker wire without faceplates at these locations for future front heights
+
+![Pasted image 20260914141330.png](/ob/99%20-%20Attachments/Pasted%20image%2020260914141330.png)
+
+1. **Front atmos** - right and left into backer boxes
+2. **Back atmos** - right and left into backer boxes
+3. (***Center atmos***) - right and left into backer boxes for future proofing
+
 #### Notes
 
 * 14G wire is good for runs < 50', consider 12G if runs are longer
@@ -27,10 +40,10 @@ lastmod: 2026-09-14T15:16:23.674Z
 * PVC electrical tubing (3") + low-voltage boxes easier to pull wires through versus smurf tubing
   * Would be ideal to do this for all speaker locations but may be costly
 * Run coax for subwoofer locations - terminate to RCA
-* Plan on wiring for 9.6 for future proofing (additional runs for ceiling center and front heights)
+* Plan on wiring for 9.4.6 for future proofing (additional runs for ceiling center, front heights, additional subs)
 * Terminate speakers at floor level or at speaker level?
 * Wall plates - doing a scoop/brush plate and pulling wires through conduit? Versus just running speaker wire (+slack) and terminating on a plate plug
-  * Traditional banana plug - [Link](https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes)
+  * Traditional banana plugs - [Link](https://www.monoprice.com/category/adapters,-switches,-&-splitters/wall-plates-&-keystones/audio-video-wall-plates-&-boxes)
   * Scoop - [Link](https://www.monoprice.com/product?p_id=3997)
   * Brush plate - [Link](https://www.monoprice.com/product?p_id=21629)
   * 3-gang for AV closet - [Link](https://www.monoprice.com/product?p_id=4013)
