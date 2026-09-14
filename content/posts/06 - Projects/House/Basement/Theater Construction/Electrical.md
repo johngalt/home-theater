@@ -2,17 +2,18 @@
 tags: []
 title: Electrical
 date: 2026-09-03T01:46:01.244Z
-lastmod: 2026-09-14T19:18:47.763Z
+lastmod: 2026-09-14T20:25:06.926Z
 ---
 ## High Voltage
 
 #### Notes
 
-* 20A feeds for subwoofer locations (best to do all 4 corners of the room, divided among 2 circuits, for future proofing)
+* 20A feeds for subwoofer locations
 * 20A feed for AV cabinet
 * 15A outlet to ceiling for projector
 * A few 15A outlets on sides of room
 * Probably smart to put an outlet at a TV height on the front wall if an active display is ever desired (or for future owners)
+* Put every AV circuit on the same leg of the panel. Breaker slots alternate between the two hot legs, so same leg means every other slot. Your subs will be tied to the Denon by RCA while sitting on a different branch circuit, which is the classic ground-loop hum setup. Same leg kills most of that before it starts.
 
 ## Low Voltage
 
