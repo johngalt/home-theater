@@ -2,7 +2,7 @@
 tags: []
 title: Projectors
 date: 2026-09-10T18:50:45.734Z
-lastmod: 2026-09-13T19:14:15.075Z
+lastmod: 2026-09-15T19:22:08.006Z
 ---
 ## Projectors
 
@@ -34,7 +34,7 @@ JVC Projection Calculator - <https://www.jvc.com/usa/projectors/lens-calculator/
 
 |                           | Valerion VisionMaster MAX     | XGIMI TITAN Noir Max          | **JVC DLA-NZ500**                | Epson LS12000              |
 | ------------------------- | ----------------------------- | ----------------------------- | -------------------------------- | -------------------------- |
-| **Price**                 | \$3699                        | \$5999                        | \$6999                           | \$5999                     |
+| **Price**                 | \$3699                        | \$5999                        | \$5999                           | \$5999                     |
 | **Chipset**               | DLP (0.47” DMD) w XPR         | DLP (0.47" SST DMD) w XPR     | LCoS (3 Chip DILA)               | LCD                        |
 | **Light Source**          | RGB Laser                     | RGB Laser                     | BLU-Escent Laser                 | Laser                      |
 | **Resolution**            | 1920 x 1080 x 4 (3840 x 2160) | 1920 x 1080 x 4 (3840 x 2160) | 4096 x 2160                      | 1920 x1080 x 4 (3840x2160) |
@@ -63,10 +63,21 @@ AT Material reviewed/ranked - <https://www.avsforum.com/threads/updated-10-21-21
 
 ### Plan
 
-Likely going to go with **SeymourAV - Precision H115 16:9 - CenterStage XD** - \$1,535. There is a CenterStage UF screen option that has a smoother texture but the gain is much lower (0.65 vs 0.83) which would result in a darker picture.
+#### SeymourAV
 
-* Black backing layer is an additional \$300-400, but I don't think I'll need it with blacking the walls behind the screen
-* Dimensions:
-  * Image (W x H): 115" (A) x 64.6" (B), Diagonal 131.9" (C)
-  * Frame (W x H): 120.3" (D) x 69.9" (E), Depth 1.3"\
-    ![Pasted image 20260910172718.png](/ob/99%20-%20Attachments/Pasted%20image%2020260910172718.png)
+Best option here is the **SeymourAV - Precision 16:9 - CenterStage XD**. It does recommend at least a 10 foot viewing distance to avoid seeing the weave texture too much, but some have noted it not being a problem at 9-10 feet. There is a CenterStage UF screen option that has a smoother texture but the gain is much lower (0.65 vs 0.83) which would result in a darker picture.
+
+* H115 (130") with Precision Frame - \$1535
+* H105 (120") with Precision Frame - \$1363
+
+#### XY Screens
+
+Another highly rated screen in terms of audio performance is the [**XY Screens Sound Max 4K**](https://www.xyscreen.com/4k-woven-acoustically-transparent-fabric-sound-max-4k.html). Has a similar gain rating to the Seymour (0.79 vs 0.83) but less EQ drop. Probably would be cheaper than the Seymour but would be more DIY and have to buy from China.
+
+**UPDATE 9/14:**\
+Reviewing more about projectors, I am worried about brightness with the JVC NZ500 and a 130" screen. According to the ProjectorCentral throw calculator, I'd only get about **88 nits** with a 0.83 gain from the SeymourAV screen. That's doable for HDR, but not the best (aiming for 100+). If I drop the size to 120", that bumps up to **104 nits**. Upgrading to a JVC NZ700 (with higher lumens) gives a similar bump, but at \$3000 extra cost... So my options to improve the brightness:
+
+1. Pick a different projector - Could go XGIMI Titan Noir Max with 7,000 brightness (that would hit **179 nits** at 130"). But still a bit leery of the XGIMI, but worth considering.
+   1. Or the JVC NZ-700 - would hit **112 nits** at 130" (and **126 nits** at 120") , but costs \$3000 more.
+2. Decrease screen size - 120" would bump my nits up to **104 nits**. Would bring my horizontal viewing angle from 50.5 to 47.1, which is still plenty immersive.
+3. Different screen - Acoustically transparent screens are at best 0.83 gain, which drops my brightness significantly. Reverting to a traditional screen with flanking speakers would be closer to a gain of 1.0 (or higher). Not really crazy about this idea honestly.

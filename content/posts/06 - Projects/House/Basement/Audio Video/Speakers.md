@@ -2,7 +2,7 @@
 tags: []
 title: Speakers
 date: 2026-09-10T22:30:03.288Z
-lastmod: 2026-09-13T18:48:54.574Z
+lastmod: 2026-09-15T01:33:24.497Z
 ---
 ## LCR
 
@@ -58,9 +58,7 @@ Pretty damn impressive loudspeakers. Doesn't have the bass range, but again, pai
 
 ### Notes
 
-Planning on dual subs to start. Either both located in the front behind the screen (L-sub-C-sub-R) or have 1 in front and 1 in back behind MLP.  If I go behind the screen, I'll be limited by the planned space behind the screen which as of now is about 20". That kind of gets me stuck with the **SVS PB-1000 Pro** and the **RSL Speedwoofer 11S MKII**. And out of those two, the Speedwoofer is better from the reviews/comparisons I've seen. If I can get away with a little more space, I think the **RSL Speedwoofer 12S** would be a good option for the price when compared to the **SVS PB-2000**.  For the RSLs, the rear-port is something that limits me as well if I cram them behind the screen wall.
-
-Thinking more about this, it may be a bad idea to place the rear-ported RSL woofers behind the screen. I may be better off placing them inside the room in corners (one in front of screen wall, one on back wall). Will have to research this more.
+Planning on dual subs to start. Either both located in the front behind the screen (L-sub-C-sub-R) or have 1 in front and 1 in back behind MLP.  If I go behind the screen, I'll be limited by the planned space behind the screen which as of now is about 20". That kind of gets me stuck with the **SVS PB-1000 Pro** and the **RSL Speedwoofer 11S MKII**. And out of those two, the Speedwoofer is better from the reviews/comparisons I've seen. If I can get away with a little more space, I think the **RSL Speedwoofer 12S** would be a good option for the price when compared to the **SVS PB-2000**.  They are rear-ported, but only will need 2-4" of clearance from the wall (according to [this live stream from RSL](https://youtu.be/BUcqiI__C6k?t=1204)).
 
 ## Surrounds
 
