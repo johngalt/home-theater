@@ -2,7 +2,7 @@
 tags: []
 title: Current Wish List
 date: 2026-09-12T19:10:32.222Z
-lastmod: 2026-09-15T00:51:05.570Z
+lastmod: 2026-09-15T00:57:15.295Z
 ---
 ## Shopping List
 
@@ -25,12 +25,13 @@ lastmod: 2026-09-15T00:51:05.570Z
 
 ### Extras
 
-|                 | Component                                                                                                      | Quantity | Price/per | Notes                                     |
-| --------------- | -------------------------------------------------------------------------------------------------------------- | -------- | --------- | ----------------------------------------- |
-| AV Receiver Fan | [AIRCOM S10](https://acinfinity.com/aircom-s10-av-receiver-cooling-fan-with-thermal-trigger-17-front-exhaust/) | 1        | \$99      | Pick model depending on exhaust direction |
-| Cable           | [RCA (M) to XLR (M) Cables](https://www.buckeyeamp.com/shop/amplifiers/options/cables)                         | 3        | \$30      | For receiver -> amp                       |
-| Calibration Mic | [UMIK-1](https://www.minidsp.com/products/acoustic-measurement/umik-1)                                         | 1        | \$79-125  | For DIRAC calibration                     |
-| Cable           | [12V Trigger Cable](https://www.amazon.com/TNP-3-5mm-Mono-Cable-3FT/dp/B01MA18DPL?th=1)                        | 1        | \$7.95    | For receiver -> amp                       |
+|                  | Component                                                                                                      | Quantity | Price/per | Notes                                                   |
+| ---------------- | -------------------------------------------------------------------------------------------------------------- | -------- | --------- | ------------------------------------------------------- |
+| AV Receiver Fan  | [AIRCOM S10](https://acinfinity.com/aircom-s10-av-receiver-cooling-fan-with-thermal-trigger-17-front-exhaust/) | 1        | \$99      | Pick model depending on exhaust direction               |
+| Cable            | [RCA (M) to XLR (M) Cables](https://www.buckeyeamp.com/shop/amplifiers/options/cables)                         | 3        | \$30      | For receiver -> amp                                     |
+| Calibration Mic  | [UMIK-1](https://www.minidsp.com/products/acoustic-measurement/umik-1)                                         | 1        | \$79-125  | For DIRAC calibration                                   |
+| Cable            | [12V Trigger Cable](https://www.amazon.com/TNP-3-5mm-Mono-Cable-3FT/dp/B01MA18DPL?th=1)                        | 1        | \$7.95    | For receiver -> amp                                     |
+| Universal Remote | [Sofabaton X2](https://www.sofabaton.com/product/x2/)                                                          | 1        | \$359     | Best currently available (aside from Crestron/Control4) |
 
 ## Audio
 
