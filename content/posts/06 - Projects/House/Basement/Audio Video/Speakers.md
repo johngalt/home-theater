@@ -2,8 +2,14 @@
 tags: []
 title: Speakers
 date: 2026-09-10T22:30:03.288Z
-lastmod: 2026-09-15T01:33:24.497Z
+lastmod: 2026-09-16T00:58:59.876Z
 ---
+## UPDATES
+
+### 9/14/26
+
+With my change of plans for the projector screen size, I'll need to change up my speaker placement plan. Initially with a 130" screen, I could keep the L/R speakers within the space behind the screen (would be about a 21 degree angle from the MLP; within Dolby spec). However, at 120", that angle is closer to 20 which may be too narrow. I would maybe need to push the speakers outside of the screen (but still behind the false wall). This would be fine, I just need to make sure I make some screen panels with acoustically transparent fabric for those locations.
+
 ## LCR
 
 | Speaker                                                                                                                             | Price       | HxWxD                 | Port   | Frequency Response | Bass Response | Sensitivity | Impedence | Max Amp Power     | Max SLP at MLP (10')   |

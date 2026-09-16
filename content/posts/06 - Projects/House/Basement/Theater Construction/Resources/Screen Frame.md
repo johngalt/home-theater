@@ -2,7 +2,7 @@
 tags: []
 title: Screen Frame
 date: 2026-09-10T00:52:43.762Z
-lastmod: 2026-09-13T18:49:58.229Z
+lastmod: 2026-09-16T01:02:33.606Z
 ---
 ## Ideal
 
@@ -19,7 +19,7 @@ In these builds he just friction fits the panels around the screen. Maybe a smal
 ![Pasted image 20260910071524.png](/ob/99%20-%20Attachments/Pasted%20image%2020260910071524.png)![Pasted image 20260910071536.png](/ob/99%20-%20Attachments/Pasted%20image%2020260910071536.png)\
 ![Pasted image 20260910071551.png](/ob/99%20-%20Attachments/Pasted%20image%2020260910071551.png)
 
-## Steps
+### Steps
 
 Link to walkthrough: https://www.avsforum.com/posts/60575818/\
 ![Pasted image 20260909201457.png](/ob/99%20-%20Attachments/Pasted%20image%2020260909201457.png)
@@ -27,7 +27,10 @@ Link to walkthrough: https://www.avsforum.com/posts/60575818/\
 Only thing that I would add is additional vertical support for the crossbeam like this:\
 ![Pasted image 20260910071724.png](/ob/99%20-%20Attachments/Pasted%20image%2020260910071724.png)
 
+## Acoustic Panels
+
+If I end up putting speakers outside of the screen wall, I'll need to have some acoustically transparent panels. Would do a similar idea to the other panels surrounding the screen, but would use special fabric (like [this](https://www.parts-express.com/Speaker-Grill-Cloth-Black-Yard-70-Wide-260-335?quantity=1) speaker grill cloth; other options [listed here by BIGmouthinDC](https://www.avsforum.com/posts/45225265/)).
+
 ## Todo
 
-* \[ ] Render in Sketchup
 * \[ ] Eventually pick out black felt fabric to make the fabric panels flanking the screen
