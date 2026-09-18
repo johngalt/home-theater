@@ -2,13 +2,17 @@
 tags: []
 title: Speakers
 date: 2026-09-10T22:30:03.288Z
-lastmod: 2026-09-16T00:58:59.876Z
+lastmod: 2026-09-16T13:25:50.955Z
 ---
 ## UPDATES
 
 ### 9/14/26
 
 With my change of plans for the projector screen size, I'll need to change up my speaker placement plan. Initially with a 130" screen, I could keep the L/R speakers within the space behind the screen (would be about a 21 degree angle from the MLP; within Dolby spec). However, at 120", that angle is closer to 20 which may be too narrow. I would maybe need to push the speakers outside of the screen (but still behind the false wall). This would be fine, I just need to make sure I make some screen panels with acoustically transparent fabric for those locations.
+
+### 9/16/26
+
+Considering the idea of just mounting bookshelfs on the ceiling rather than cutting holes for in-ceiling speakers (like [here](https://i.postimg.cc/pLCxR8cQ/7-3-4-Home-Theater.jpg)). Wouldn't change the budget much. Would potentially improve listening experience but wouldn't look as clean.
 
 ## LCR
 
@@ -104,6 +108,8 @@ Out of the Ascend options, I'm eyeing the **HTM-200SE2** since its sealed and ca
 
 ### Notes
 
-Planning 4 total atmos speakers (front/rear). Matching with LCRs/surrounds isn't as important. Straight down-firing in-ceiling speakers aren't great (see [here](https://www.avsforum.com/threads/list-of-angled-in-ceiling-speakers-and-why-on-ceiling-bookshelf-is-better-for-immersive-sound-formats-atmos-auro-dts-x.3238139/)). I guess I could consider wall-mounted height speakers (like the SVS Prime Elevation) but unsure about that.
+Planning 4 total atmos speakers (front/rear). Matching with LCRs/surrounds isn't as important. Straight down-firing in-ceiling speakers aren't great (see [here](https://www.avsforum.com/threads/list-of-angled-in-ceiling-speakers-and-why-on-ceiling-bookshelf-is-better-for-immersive-sound-formats-atmos-auro-dts-x.3238139/)).
 
-I'm leaning towards just going with the **RSL C34E MKII**. If I wanted "even better" in terms of angling towards the MLP, could bump up to the **ELAC Debut 2.0**. Right now I'd need a ~45-50 degree angle to get them perfectly towards the MLP. There are not many options (that aren't way over budget) to get me there, so the 30 degree would have to do.
+I'm leaning towards just going with the **RSL C34E MKII**. If I wanted "even better" in terms of angling towards the MLP, could bump up to the **ELAC Debut 2.0**. Right now I'd need a ~45-50 degree angle to get them perfectly towards the MLP. There are not many in-ceiling options (that aren't way over budget) to get me there, so the 30 degree would have to do.
+
+Another idea is to use ceiling mounts for bookshelf speakers (like [this](https://i.postimg.cc/pLCxR8cQ/7-3-4-Home-Theater.jpg)). Would allow better alignment of the atmos speakers towards the MLP and not involve cutting holes in the drywall. Would be a similar cost if I went with the Ascend HTM-200SE2s.

@@ -2,9 +2,15 @@
 tags: []
 title: Projectors
 date: 2026-09-10T18:50:45.734Z
-lastmod: 2026-09-16T00:56:57.827Z
+lastmod: 2026-09-18T19:43:27.872Z
 ---
 ## UPDATES
+
+### 9/18/26
+
+Been diving into this much more. Really stuck among a couple different options. I thought about just upgrading to the JVC NZ700 to get the extra lumens, but reviews seem to be mixed in terms of it being worth it. Sure it has 300 extra lumens, but it sacrifices some color contrast compared to the NZ500. The NZ700 contrast benefit only comes when you engage a cinema filter, which actually drops its brightness BELOW the NZ500. So I'm not sure its worth the tradeoff. The NZ800 would obviously be the best choice but thats way out of budget. So for now I'm working with the NZ500 idea and modifying my setup to see what would work best. Here are some of my options and trade offs:
+
+![Pasted image 20260918144117.png](/ob/99%20-%20Attachments/Pasted%20image%2020260918144117.png)
 
 ### 9/14/26
 
@@ -22,7 +28,8 @@ I think the most reasonable option would be to drop to the 120" screen. Would no
 ### Tools
 
 Projection Throw Calculator - <https://www.projectorcentral.com/projection-calculator-pro.cfm>\
-JVC Projection Calculator - <https://www.jvc.com/usa/projectors/lens-calculator/>
+JVC Projection Calculator - <https://www.jvc.com/usa/projectors/lens-calculator/>\
+View Angle Calculator - <https://pixelht.com/projector-calculator/>
 
 ### Notes
 
@@ -39,6 +46,7 @@ JVC Projection Calculator - <https://www.jvc.com/usa/projectors/lens-calculator/
 * JVC DLA-NZ500 (\$6999) - <https://www.jvc.com/usa/projectors/procision/dla-nz500/>
   * <https://www.projectorreviews.com/jvc/jvc-dla-nz500-4k-dila-projector-review/>
   * <https://www.projectorscreen.com/blogs/insights/jvc-nz500-laser-dila-native-4k-projector-review-dla-rs1200>
+* JVC DLA-NZ700 (\$8999) - <https://www.jvc.com/usa/projectors/procision/dla-nz700/>
 * Epson Home Cinema LS11000 (\$3799) - <https://epson.com/For-Home/Projectors/Home-Cinema/Home-Cinema-LS11000-4K-PRO-UHD-Laser-Projector/p/V11HA48020>
   * <https://www.projectorreviews.com/epson/epson-home-cinema-ls11000-laser-projector-review/>
   * <https://www.projectorscreen.com/products/epson-ls11000-4k-laser-projector-with-2500-lumens-white-manufactured-refurbished>
@@ -58,13 +66,17 @@ JVC Projection Calculator - <https://www.jvc.com/usa/projectors/lens-calculator/
 | **Contrast Ratio**        | 4000:1 (15,000:1 Dynamic)     | 10,000:1 (100,000:1 Dynamic)  | 40,000:1                         | 80,000:1                         | (2,500,000:1 Dynamic)      |
 | **Color Gamut**           | 110% of BT.2020               | 110% of BT.2020               | 93% of DCI-P3                    | DCI 98%/BT.2020 73%              | 87% of DCI-P3              |
 | **HDR**                   | HDR10+, DV, HLG, IMAX E       | HDR10+, DV, HLG, IMAX E       | HDR10+, Dynamic HDR Tone Mapping | HDR10+, Dynamic HDR Tone Mapping | HDR10+, HLG                |
-| **Size**                  | 10.20" x 7.30" x 9.20"        | 14.9" x 11.3" x 9.1"          | 17.7" x 8.2" x 18.9"             |                                  | 7.60" x 20.50" x 17.60"    |
-| **Weight**                | 16.5 lbs                      | 17.9 lbs                      | 32.2 lbs                         |                                  | 28 lbs                     |
-| **Misc**                  |                               |                               | TRUE native 4k                   |                                  | No dynamic tone mapping    |
+| **Size**                  | 10.20" x 7.30" x 9.20"        | 14.9" x 11.3" x 9.1"          | 17.7" x 8.2" x 18.9"             | 17.7" x 8.2" x 18.9"             | 7.60" x 20.50" x 17.60"    |
+| **Weight**                | 16.5 lbs                      | 17.9 lbs                      | 32.2 lbs                         | 32.6 lbs                         | 28 lbs                     |
+| **Misc**                  |                               |                               | TRUE native 4k                   | TRUE native 4k                   | No dynamic tone mapping    |
 
 ### Plan
 
 The JVC seems to be the most all-around popular. The Valerion seems really nice, but not as mature. The JVC, despite its lower lumens, is touted as having better blacks and color contrast. It also is the only one that does native 4k rather than using pixel shifting like the others. Also the dynamic HDR tone mapping is highly touted. Likely going to go with the **JVC DLA-NZ500**.
+
+### Projector Mount
+
+One universal mount [here](https://www.audioadvice.com/products/audio-advice-universal-projector-mount-for-epson-projectors-flush-to-ceiling-black). Another option [here](https://www.legrandav.com/products/mounts/projector-mounts/rpa-ceiling-projector-mounts/rpau).
 
 ## Screens
 
@@ -82,6 +94,8 @@ Best option here is the **SeymourAV - Precision 16:9 - CenterStage XD**. It does
 
 * H115 (130") with Precision Frame - \$1535
 * H105 (120") with Precision Frame - \$1363
+
+Some concerns about the weave at closer viewing distances have been raised (see [here](https://www.avsforum.com/posts/64431187/), good summary of my XD/UF2 concerns [here](https://www.avsforum.com/threads/the-official-seymourav-center-stage-screen-thread.842769/page-142?post_id=63603894\&nested_view=1#post-63603894)).
 
 #### XY Screens
 
