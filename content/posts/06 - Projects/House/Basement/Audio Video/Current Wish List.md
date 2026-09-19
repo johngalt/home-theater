@@ -2,26 +2,26 @@
 tags: []
 title: Current Wish List
 date: 2026-09-12T19:10:32.222Z
-lastmod: 2026-09-18T19:55:16.598Z
+lastmod: 2026-09-19T19:34:32.005Z
 ---
 ## Shopping List
 
 ### Main Components
 
-|                  | **Component**                                                                                                                                                                                         | **Price**         | **Quantity** |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------ |
-| **Speakers**     |                                                                                                                                                                                                       |                   |              |
-| L/R              | [Ascend CMT-340SE2 MINI TOWER PAIR](https://www.ascendacoustics.com/products/cmt-340se2-mini-tower-pair)                                                                                              | \$798             | 1            |
-| Center           | [Ascend CMT-340SE2 CENTER](https://www.ascendacoustics.com/collections/signature-series-centers/products/cmt-340se2-center), vertical                                                                 | \$428             | 1            |
-| Subwoofers       | [RSL Speedwoofer 12S](https://rslspeakers.com/products/rsl-speedwoofer-12s) x2 OR<br>[RSL Speedwoofer 10S MKII ](https://rslspeakers.com/products/rsl-speedwoofer-10s-mkii)x2                         | $799<br>OR $499   | 2            |
-| Surrounds        | [Ascend HTM-200SE2 MINI-MONITOR PAIR](https://www.ascendacoustics.com/collections/signature-series/products/htm-200se2-mini-monitor-pair) x2                                                          | \$368             | 2            |
-| Atmos            | [RSL C34E MKII](https://rslspeakers.com/products/c34emkii-edgless-in-ceiling-speaker) x4                                                                                                              | \$149             | 4            |
-| **Receiver/Amp** |                                                                                                                                                                                                       |                   |              |
-| Receiver         | [Denon AVR-X3900H](https://www.denon.com/en-us/product/x-series-av-receivers/avr-x3900h/301129.html)                                                                                                  | \$1849            | 1            |
-| Amplifier        | [Buckeye Hypex NCx500 3-channel](https://www.buckeyeamp.com/shop/amplifiers/hypex/ncx500/3_channel) OR<br>[Emotiva BasX A-3](https://emotiva.com/products/basx-a3-plus-three-channel-power-amplifier) | $1650 <br>OR $799 | 1            |
-| **Projector**    |                                                                                                                                                                                                       |                   |              |
-| Projector        | [JVC DLA-NZ500](https://www.jvc.com/usa/projectors/procision/dla-nz500/)                                                                                                                              | \$5999            | 1            |
-| Screen           | [SeymourAV CenterStage XD 120"](https://www.seymourav.com/) OR<br>[XY Screens Sound Max 4k 120"](https://www.xyscreen.com/80-200-inch-fixed-frame-projection-screen-for-home-theater-hk80c.html)      | $1363 <br>OR $730 | 1            |
+|                  | **Component**                                                                                                                                                                                              | **Price**                    | **Quantity** |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------ |
+| **Speakers**     |                                                                                                                                                                                                            |                              |              |
+| L/R              | [Ascend CMT-340SE2 MINI TOWER PAIR](https://www.ascendacoustics.com/products/cmt-340se2-mini-tower-pair)                                                                                                   | \$798                        | 1            |
+| Center           | [Ascend CMT-340SE2 CENTER](https://www.ascendacoustics.com/collections/signature-series-centers/products/cmt-340se2-center), vertical                                                                      | \$428                        | 1            |
+| Subwoofers       | [RSL Speedwoofer 12S](https://rslspeakers.com/products/rsl-speedwoofer-12s) x2                                                                                                                             | \$799                        | 2            |
+| Surrounds        | [Ascend HTM-200SE2 MINI-MONITOR PAIR](https://www.ascendacoustics.com/collections/signature-series/products/htm-200se2-mini-monitor-pair) x2                                                               | \$368                        | 2            |
+| Atmos            | [RSL C34E MKII](https://rslspeakers.com/products/c34emkii-edgless-in-ceiling-speaker) x4                                                                                                                   | \$149                        | 4            |
+| **Receiver/Amp** |                                                                                                                                                                                                            |                              |              |
+| Receiver         | [Denon AVR-X3900H](https://www.denon.com/en-us/product/x-series-av-receivers/avr-x3900h/301129.html)                                                                                                       | \$1849                       | 1            |
+| Amplifier        | [Buckeye Hypex NCx500 3-channel](https://www.buckeyeamp.com/shop/amplifiers/hypex/ncx500/3_channel) OR <br>[Emotiva BasX A-3](https://emotiva.com/products/basx-a3-plus-three-channel-power-amplifier)     | $1650 <br>OR $799            | 1            |
+| **Projector**    |                                                                                                                                                                                                            |                              |              |
+| Projector        | [JVC DLA-NZ500](https://www.jvc.com/usa/projectors/procision/dla-nz500/)                                                                                                                                   | \$5999                       | 1            |
+| Screen           | [SeymourAV CenterStage XD 120"/130"](https://www.seymourav.com/) OR<br>[XY Screens Sound Max 4k 120"/130"](https://www.xyscreen.com/80-200-inch-fixed-frame-projection-screen-for-home-theater-hk80c.html) | $1363/$1535 <br>OR $780/$840 | 1            |
 
 ### Extras
 
