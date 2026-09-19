@@ -2,7 +2,7 @@
 tags: []
 title: Research
 date: 2026-08-29T11:47:06.457Z
-lastmod: 2026-09-19T19:01:58.014Z
+lastmod: 2026-09-19T19:51:22.566Z
 ---
 ## Calculators
 
@@ -24,7 +24,7 @@ lastmod: 2026-09-19T19:01:58.014Z
 
 ### Soundproofing
 
-* Soundproofing company - GREAT resource for construction - [ https://www.soundproofingcompany.com/](%20https://www.soundproofingcompany.com/)
+* Soundproofing company - GREAT resource for construction - <https://www.soundproofingcompany.com/>
 * Ceiling backer boxes - <https://www.avsforum.com/threads/soundproofing-master-thread.1509173/page-42?post_id=54652188&nested_view=1#post-54652188>
   * <https://www.avsforum.com/threads/ceiling-and-walls-with-resilient-channel.3254461/?post_id=61981931#post-61981931>
   * <https://www.reddit.com/r/hometheater/comments/pv63rm/diy_soundproof_ceiling_speaker_backing_boxes/>
