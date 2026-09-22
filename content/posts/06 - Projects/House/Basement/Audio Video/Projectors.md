@@ -2,9 +2,13 @@
 tags: []
 title: Projectors
 date: 2026-09-10T18:50:45.734Z
-lastmod: 2026-09-18T19:43:27.872Z
+lastmod: 2026-09-20T11:53:02.389Z
 ---
 ## UPDATES
+
+### 9/20/26
+
+Adding some notes about the SilverTicket WAB screen. Much cheaper than the SeymourAV screen with better acoustic properties. Slight drop in gain, but the weave is much less visible at 10 feet.
 
 ### 9/18/26
 
@@ -103,3 +107,11 @@ Another highly rated screen in terms of audio performance is the [**XY Screens S
 
 * 120" HK80C frame with Sound Max 4k - $730 + $50 customs duty
 * 130" HK80C frame with Sound Max 4k - $780 + $50 customs duty
+
+#### SilverTicket
+
+This one I started looking at recently. A lower cost option compared to Seymour. May not have the build quality of the Seymour, but the reviews say the screen material is pretty good. Acoustically, better than the Seymour at 4 inches from a speaker. The contrast is about 0.7 compared to the 0.83 measured on the Seymour CenterStage XD. BUT, the reported weave visibility is much better -- saying that the weave isn't that apparent even at 8 feet. Looking at the [**STR-169120-WAB 120"**](https://www.silverticketproducts.com/collections/fixed-projection-screens/products/str-169120-wab) or higher.
+
+* STR WAB 120" diagonal - \$459
+* STR WAB 128" diagonal - \$519
+* STR WAB 135" diagonal - \$559

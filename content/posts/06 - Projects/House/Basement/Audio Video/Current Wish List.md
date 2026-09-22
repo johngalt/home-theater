@@ -2,38 +2,39 @@
 tags: []
 title: Current Wish List
 date: 2026-09-12T19:10:32.222Z
-lastmod: 2026-09-19T19:34:32.005Z
+lastmod: 2026-09-22T12:13:58.232Z
 ---
 ## Shopping List
 
 ### Main Components
 
-|                  | **Component**                                                                                                                                                                                              | **Price**                    | **Quantity** |
-| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------ |
-| **Speakers**     |                                                                                                                                                                                                            |                              |              |
-| L/R              | [Ascend CMT-340SE2 MINI TOWER PAIR](https://www.ascendacoustics.com/products/cmt-340se2-mini-tower-pair)                                                                                                   | \$798                        | 1            |
-| Center           | [Ascend CMT-340SE2 CENTER](https://www.ascendacoustics.com/collections/signature-series-centers/products/cmt-340se2-center), vertical                                                                      | \$428                        | 1            |
-| Subwoofers       | [RSL Speedwoofer 12S](https://rslspeakers.com/products/rsl-speedwoofer-12s) x2                                                                                                                             | \$799                        | 2            |
-| Surrounds        | [Ascend HTM-200SE2 MINI-MONITOR PAIR](https://www.ascendacoustics.com/collections/signature-series/products/htm-200se2-mini-monitor-pair) x2                                                               | \$368                        | 2            |
-| Atmos            | [RSL C34E MKII](https://rslspeakers.com/products/c34emkii-edgless-in-ceiling-speaker) x4                                                                                                                   | \$149                        | 4            |
-| **Receiver/Amp** |                                                                                                                                                                                                            |                              |              |
-| Receiver         | [Denon AVR-X3900H](https://www.denon.com/en-us/product/x-series-av-receivers/avr-x3900h/301129.html)                                                                                                       | \$1849                       | 1            |
-| Amplifier        | [Buckeye Hypex NCx500 3-channel](https://www.buckeyeamp.com/shop/amplifiers/hypex/ncx500/3_channel) OR <br>[Emotiva BasX A-3](https://emotiva.com/products/basx-a3-plus-three-channel-power-amplifier)     | $1650 <br>OR $799            | 1            |
-| **Projector**    |                                                                                                                                                                                                            |                              |              |
-| Projector        | [JVC DLA-NZ500](https://www.jvc.com/usa/projectors/procision/dla-nz500/)                                                                                                                                   | \$5999                       | 1            |
-| Screen           | [SeymourAV CenterStage XD 120"/130"](https://www.seymourav.com/) OR<br>[XY Screens Sound Max 4k 120"/130"](https://www.xyscreen.com/80-200-inch-fixed-frame-projection-screen-for-home-theater-hk80c.html) | $1363/$1535 <br>OR $780/$840 | 1            |
+|                  | **Component**                                                                                                                                | **Price** | **Quantity** |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ |
+| **Speakers**     |                                                                                                                                              |           |              |
+| L/R              | [Ascend CMT-340SE2 MINI TOWER PAIR](https://www.ascendacoustics.com/products/cmt-340se2-mini-tower-pair)                                     | \$798 ✓   | 1            |
+| Center           | [Ascend CMT-340SE2 CENTER](https://www.ascendacoustics.com/collections/signature-series-centers/products/cmt-340se2-center), vertical        | \$428 ✓   | 1            |
+| Subwoofers       | [RSL Speedwoofer 12S](https://rslspeakers.com/products/rsl-speedwoofer-12s) x2                                                               | \$799 ✓   | 2            |
+| Surrounds        | [Ascend HTM-200SE2 MINI-MONITOR PAIR](https://www.ascendacoustics.com/collections/signature-series/products/htm-200se2-mini-monitor-pair) x2 | \$368 ✓   | 2            |
+| Atmos            | [RSL C34E MKII](https://rslspeakers.com/products/c34emkii-edgless-in-ceiling-speaker) x4                                                     | \$149 ✓   | 4            |
+| **Receiver/Amp** |                                                                                                                                              |           |              |
+| Receiver         | [Denon AVR-X3900H](https://www.denon.com/en-us/product/x-series-av-receivers/avr-x3900h/301129.html)                                         | \$1849    | 1            |
+| Amplifier        | [Buckeye Hypex NCx500 3-channel](https://www.buckeyeamp.com/shop/amplifiers/hypex/ncx500/3_channel)                                          | \$1650 ✓  | 1            |
+| **Projector**    |                                                                                                                                              |           |              |
+| Projector        | [JVC DLA-NZ500](https://www.jvc.com/usa/projectors/procision/dla-nz500/)                                                                     | \$5999 ✓  | 1            |
+| Screen           | [XY Screens Sound Max 4k 120"](https://www.xyscreen.com/80-200-inch-fixed-frame-projection-screen-for-home-theater-hk80c.html)               | \$780 ✓   | 1            |
 
 ### Extras
 
-|                  | **Component**                                                                                                                                                     | **Price** | **Quantity** | **Notes**                                               |
-| ---------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------- | ------------ | ------------------------------------------------------- |
-| AV Receiver Fan  | [AIRCOM S10](https://acinfinity.com/aircom-s10-av-receiver-cooling-fan-with-thermal-trigger-17-front-exhaust/)                                                    | \$99      | 1            | Pick model depending on exhaust direction               |
-| Cable            | [RCA (M) to XLR (M) Cables](https://www.buckeyeamp.com/shop/amplifiers/options/cables)                                                                            | \$30      | 3            | For receiver -> amp                                     |
-| Calibration Mic  | [UMIK-1](https://www.minidsp.com/products/acoustic-measurement/umik-1)                                                                                            | \$79-125  | 1            | For DIRAC calibration                                   |
-| Cable            | [12V Trigger Cable](https://www.amazon.com/TNP-3-5mm-Mono-Cable-3FT/dp/B01MA18DPL?th=1)                                                                           | \$7.95    | 1            | For receiver -> amp                                     |
-| Universal Remote | [Sofabaton X2](https://www.sofabaton.com/product/x2/)                                                                                                             | \$359     | 1            | Best currently available (aside from Crestron/Control4) |
-| Software         | [DIRAC Art Bundle](https://www.dirac.com/products/art)                                                                                                            | \$799     | 1            | Room correction + bass control + ART                    |
-| Mount            | [Audio Advice Universal Projector Mount](https://www.audioadvice.com/products/audio-advice-universal-projector-mount-for-epson-projectors-flush-to-ceiling-black) | \$294     | 1            |                                                         |
+|                   | **Component**                                                                                                         | **Price** | **Quantity** | **Notes**                                               |
+| ----------------- | --------------------------------------------------------------------------------------------------------------------- | --------- | ------------ | ------------------------------------------------------- |
+| AV Receiver Fan   | [AIRCOM S10](https://acinfinity.com/aircom-s10-av-receiver-cooling-fan-with-thermal-trigger-17-front-exhaust/)        | \$99      | 1            | Pick model depending on exhaust direction               |
+| Cable             | [RCA (M) to XLR (M) Cables](https://www.buckeyeamp.com/shop/amplifiers/options/cables)                                | \$30      | 3 ✓          | For receiver -> amp                                     |
+| Calibration Mic   | [UMIK-1](https://www.minidsp.com/products/acoustic-measurement/umik-1)                                                | \$79-125  | 1 ✓          | For DIRAC calibration                                   |
+| Cable             | [12V Trigger Cable](https://www.amazon.com/TNP-3-5mm-Mono-Cable-3FT/dp/B01MA18DPL?th=1)                               | \$7.95    | 1            | For receiver -> amp                                     |
+| Universal Remote  | [Sofabaton X2](https://www.sofabaton.com/product/x2/)                                                                 | \$359     | 1            | Best currently available (aside from Crestron/Control4) |
+| Software          | [DIRAC Art Bundle](https://www.dirac.com/products/art)                                                                | \$799     | 1            | Room correction + bass control + ART                    |
+| Mount             | [Engage Engineering HT Mount](https://www.engageeng.com/product-page/ht-projector-ceiling-mount)                      | \$344     | 1            | Attaches to 1.5" NPT Pipe + Flange                      |
+| Image Calibration | [Calibrite Display Pro HL](https://www.amazon.com/dp/B0C836NB5X?lv=shuf\&channelId=500\&plpRedirect=mhFallback\&th=1) | \$279     | 1            | Or just find someone to do it                           |
 
 ## Audio
 
